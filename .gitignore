@@ -1,3 +1,7 @@
 npm-debug.log
 node_modules
 .idea/
+*.sublime-project
+*.sublime-workspace
+*.sublime-settings
+.DS_Store
